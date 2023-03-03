@@ -2,7 +2,9 @@
 
 <div align="center">
 <a href="https://github.com/laura1888" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+ 
+![image](https://user-images.githubusercontent.com/117167518/222706222-a01a7f27-f137-49af-abd1-7ded782e818d.png)
+
 </a>
 
 <a href="https://t.me/Lora" target="_blank">
