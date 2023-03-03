@@ -1,9 +1,10 @@
 </td></tr></table>
 
-<div align="center">
 ![image](https://user-images.githubusercontent.com/117167518/222706222-a01a7f27-f137-49af-abd1-7ded782e818d.png)
 
- <a href="https://github.com/laura1888" target="_blank">
+
+<div align="center">
+<a href="https://github.com/laura1888" target="_blank">
 </a>
 
 <a href="https://t.me/Lora" target="_blank">
