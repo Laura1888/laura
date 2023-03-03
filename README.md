@@ -1,10 +1,9 @@
 </td></tr></table>
 
 <div align="center">
-<a href="https://github.com/laura1888" target="_blank">
- 
 ![image](https://user-images.githubusercontent.com/117167518/222706222-a01a7f27-f137-49af-abd1-7ded782e818d.png)
 
+ <a href="https://github.com/laura1888" target="_blank">
 </a>
 
 <a href="https://t.me/Lora" target="_blank">
@@ -15,7 +14,7 @@
 
 
 <table border="1"><tr><td valign="top" width="33%"><div align="center">  
-<img src='https://user-images.githubusercontent.com/101027445/205465907-4b077c0e-ec2e-4294-acd7-ad33904f28e0.png'>
+
     <!-- <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a> -->
     <!-- <a href="https://hibernate.org/" target="_blank"><img style="margin: 10px" src="https://media.bitdegree.org/storage/media/images/2018/12/hibernate-interview-questions-logo.png" alt="Hibarnate" height="50" /></a>  -->
     <!-- <a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://springframework.guru/wp-content/uploads/2015/02/spring-framework-project-logo.png" alt="Spring Freamwork" height="50" /></a> -->
